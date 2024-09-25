@@ -438,7 +438,7 @@ nav h3{
     align-items: center;
     justify-content: center;
     top:0;
-    transition: all ease 0.5s;
+    transition: all ease 0.4s;
 }
 .loader h1{
     font-size: 4vw;
@@ -473,4 +473,3 @@ nav h3{
         opacity: 0;
     }
 }
-
