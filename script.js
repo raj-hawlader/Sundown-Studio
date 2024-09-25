@@ -1,7 +1,7 @@
-// const scroll = new LocomotiveScroll({
-//     el: document.querySelector('#main'),
-//     smooth: true
-// })
+const scroll = new LocomotiveScroll({
+    el: document.querySelector('#main'),
+    smooth: true
+})
 
 var fixed = document.querySelector("#fixed");
 var elemc = document.querySelector(".elems");
